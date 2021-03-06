@@ -1,0 +1,115 @@
+
+Constant Story "Une piece ou nul n'est alle";
+Constant Headline "^Antoine Sweeney^";
+Constant MANUAL_PRONOUNS;
+
+Include "Parser";
+Include "VerbLib";
+
+
+!------------------------------------------------------------------------------!
+
+[ Initialise;
+    player.description = "vous version poupee";
+    give player light;
+    lookmode = 2;
+    location = jardin;
+    "^Ouverture du conte^";
+ ];
+
+!------------------------------------------------------------------------------!
+
+!Class Deco
+!  with  before [;
+!          Take,Pull,Push,PushDir:
+!            print_ret "Vous voulez redecorer?";
+!        ],
+!   has scenery;
+
+!Class Furniture
+!  with  before [;
+!          Take,Pull,Push,PushDir:
+!            print_ret "Cela semble inutile.";
+!        ],
+!  has   scenery supporter;
+
+Class Room
+with
+ s_to "Vous vous approchez du vide, perdez pied, et reculez subitement.",
+ n_to " Derriere se trouve un immense mur. Aucun interet donc, a aller par la.";
+
+!------------------------------------------------------------------------------!
+Room Jardin
+    with description "Un joli jardin",
+    e_to "La cloture",
+    w_to salon;
+
+Room Salon
+    with description "Un salon",
+    e_to jardin,
+    w_to cuisine,
+    u_to chambre;
+
+Room cuisine
+    with description "cuisine",
+    d_to soussol,
+    e_to salon;
+
+Room Chambre
+    with description "Chambre",
+    d_to salon;
+
+Room soussol
+    with description "lieu obscure",
+    up_to salon;
+
+! Npc renard
+
+!Salon
+
+! bibliothèque avec des livres
+
+! Poésies                                     ---- indique qu'il faut pleurer et se servir des larmes pour ouvrir le coeur
+! Traité sur maison de poupées   --- permet de comprendre que le joueur est dans une maison de poupées
+! Le conteur dans les contes d'Hisenberg ---- donne l'indice que le conteur observe et qu'on peut lui parler
+
+!cuisine
+
+! Pièce du haut
+
+! Poupée géante
+
+! Élise1 (déplacer une fois après avoir parlé à quelqu'un)
+
+!Élise2 (à trouver, dans la cuisine, dans une armoire? Ensuite, ouvrir son coeur avec les larmes, tous pleurent. Le conteur, la poupée, le renard, le joueur peut pleurer aussi.)
+! Si le joueur ne rouvre pas le coeur de Élise2, alors elle fuit au sous-sol.
+
+! Sous-sol
+! Scène finale, le joueur insulte Élise et meurt, ou ouvre son coeur.
+!Élise3
+
+! Vocabulaire pour la maiosn de poupées:
+!
+! Écoinçon
+! Fourneau en laiton
+! Coupole (et tambour d'icelle)
+! Émaux cloisonnés
+!  torchère
+! guéridon
+!  cimaise
+! montant
+! culot
+!  bois plaqué d'acajou
+! Bateau en porcelaine
+! Linteau
+! Marlib
+! Brasero
+! Lambris
+!  Plafond à caissons
+! Tissus tendus sur les murs
+
+!------------------------------------------------------------------------------!
+
+Include "FrenchG";
+
+!------------------------------------------------------------------------------!
