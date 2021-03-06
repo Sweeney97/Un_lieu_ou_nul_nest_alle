@@ -5,18 +5,20 @@
 Vous vous reconnaissez, mais quelque chose à propos de vous semble différent. Vous avez de la difficulté à mettre le doigt dessus... Vous semblez plus *lumineux* qu'à l'accoutumée.
 
 ### Ouverture
+
 Laissez-moi vous conter une histoire qui se déroule il y a bien longtemps, autrefois, enfouis dans une brume amplifiée par les mythes et les ragots, colportée par les murmurateurs et les blasphémateurs, cependant enchancée par les prêtres et les moines.
 Dans la petite ville de Sacerdoce, qui devait sa réputation à son Église belle comme nulle autre, pour laquelle des milliers de pèlerins gravissaient le mont Rougeoyant et la vallée De Joachim, il y avait un oprhelinat tristement célèbre. <!-- description de l'église -->
 Des enfants de plusieurs villes avoisinnantes y était éconduits, et les habitants le surnommait, hélas, la maisons des pleurs.
 Un flot d'âmes transita par la maison des pleurs, mais l'histoire la plus connût de tous est l'histoire de «la fille de Dieu».
 Cette petite fillette, comme bien d'autres, n'avait ni père ni mère, et ignorait tout d'eux.
-Seulement, au contraire des autres, elle n'avait pas de nom; elle fut ainsi surnommée «la fille de Dieu» par les bonnes soeurs qui s'occupaient de l'orphelinat.
-
-***
-Un soir, la petite s'endormit bien tôt, et les soeurs prièrent pour elle, craingnant pour sa santé; elle perlait de sueur, se tordait et gémissait de douleur dans son sommeil, sa petite face ronde semblait contrariée par quelque douleur invisible.
+Seulement, au contraire des autres, elle n'avait pas de nom; ce qui lui valut d'être la cible d'insultes de la part des enfants.
+Un soir, les enfants firent un feu dans l'arrière cours.
+La fillette rentra tout essoufflée, couverte de cendre, ce qui alarma les soeurs.
+Elle resta muette, mais cepandent un évènement semblait l'avoir marquée.
+Les soeurs couchèrent tous les enfants, éteignirent le feu, ne pouvant obtenir d'aucun gredin une seule réponse.
+Ce soir-là, la petite s'endormit bien tôt, et les soeurs prièrent pour elle, craingnant pour sa santé; elle perlait de sueur, se tordait et gémissait de douleur dans son sommeil, sa petite face ronde semblait contrariée par quelque douleur invisible.
 
 Désormais, laissez-moi vous conter comment cette étrange histoire se termina après cette longue nuit...
-
 
 ### Jardin
 
@@ -24,7 +26,7 @@ Vous vous réveillez, étalé sur l'herbe tièdit par une lumière blanche. Vous
 
 Vous êtes dans un petit jardin, bien coquet. Près de vous, une table en fer forgé et deux chaises en pailles semblent attendre deux causeurs prenant un rafraîchissement à l'ombre d'un saule. Le jardin contient toutes sortes de fleurs colorées: des tulipes, du muguet, des pensées, des violettes, et des géraniums. Le jardin est <!--se limite--> contouré par une haute clôture peinte en noir. À l'ouest, vous pouvez apercevoir une maisonnette, et une entrée donnant sur un salon.
 
-Un renard surgit d'un buisson, et se dressa contre vous, en grognant. Stupéfait et saisi de terreur, vous ne pouvez bouger d'un seul pouce. Dans votre peur subite, vous ne remarquez pas que ce renard port une chemise déboutonnée et une cravate en bataille. Il cessa de glapir, puis boutonna conscencieusement sa chemise, et se chapeauta. « Je vous prie de m'excuser, se plaignit le renard. Il faisait tout noir et d'un coup, toute cette lumière... vous êtes lumineux ma parole. Mais en vrai sachez que je n'ai pas l'habitude d'accueillir aussi méchamment les hôtes de notre maison. Vous désirez un peu de limonade? Tenez, asseyez je vous prie. Sans pouvoir glisser ne serait-ce qu'un mot, vous vous assoyez sur la chaise. Le renard marcha nonchalament vers la maisonnette sur ses deux pattes, et reparut avec un pichet de limonade, qu'il vous servit. « Je vous en prie, buvez.»
+Un renard surgit d'un buisson, et se posa contre vous, en grognant. Stupéfait et saisi de terreur, vous ne pouvez bouger d'un seul pouce. Après un moment, il cessa de glapir. « Je vous prie de m'excuser, se plaignit le renard. Il faisait tout noir et d'un coup, toute cette lumière... vous êtes lumineux ma parole. Mais en vrai sachez que je n'ai pas l'habitude d'accueillir aussi méchamment les hôtes de notre maison. Vous désirez un peu de limonade? Tenez, asseyez je vous prie. Sans pouvoir glisser ne serait-ce qu'un mot, vous vous assoyez sur la chaise. Le renard trotta nonchalament vers la maisonnette, et reparut avec un pichet de limonade, l'anse dans la gueule, qu'il vous servit. Il posa le pichet sur la table. « Je vous en prie, buvez.»
 
 ### Renard
 
@@ -37,15 +39,18 @@ Bon, voilà Anasthasia qui repart son éternelle complainte. Je vous laisse, fit
 
 ### Salon
 
-Le parquet du salon est mouillé de larmes. Vous devinez la propriétaire de cette maison aisée, puisque l'intérieur est apparament luxueux. Une bibliothèque vitrée de style élisabéthain occupe tout le fond de la pièce. À l'Est, vous pouvez retourner dans le jardin. À l'ouest, vous sentez l'odeur d'une cuisine. Un escalier, monte au premier étage.
+Le parquet en bois du salon est mouillé de larmes. Vous devinez la propriétaire de cette maison aisée, puisque l'intérieur est apparament luxueux.
+Des bibliothèques vitrées de style élisabéthain occupent le fond de la pièce. Des lambris plaqué de bois d'acajou recouvrent les murs à mi-hauteur, complété par des tissus tendu aux motifs floraux. Le plafond à caissons est prolongés dans des culots en feuilles d'acanthe et un foyer de pierre dont le linteau sculpté illustre une scène de beuverie se trouve à l'entrée.
+
+À l'Est, vous pouvez retourner dans le jardin. À l'ouest, vous sentez l'odeur d'une cuisine. Un escalier, monte au premier étage.
 
 Des larmes descendent en cascades l'escalier, accompagnant les plaintes horribles d'Anasthasia.
 
 ### La chambre de la poupée
 
-Anasthasia pleure une rivière de larmes. Ses deux boutons d'yeux semble deux puits sans fond. Elle est assise dans sa tristesse, pautage dedans, et prend sûrement quelque plaisir inavoué à s'entendre pour ainsi chialer.
+La chambre ne communique avec aucune pièce à l'étage. Un petit brasero romain repose près du lit pour les nuits froides. Sur un guéridon, un ensemble de thé de procelaine chinoise au marli doré de dragons d'asie attend patiemment ses buveurs. Accoté sur le mur, un récamier poussiéreux donne l'impression d'une chambre abandonnée. Sur une console, une torchère aux bougies fondues n'éclaire plus depuis longtemps; et, tout près, un batwau de porcelaine. Malgré tout, la chambre garde une impression aérée, en raison d'une fenêtre ronde à la française qui complétait le mur Ouest. De plus, le plafond se prolongait en une coupole représentant un ciel bleu-poudre avec quelque nuages, et dont le tambour était couvert de chérubins. Près du lit, une armoire au panneau de vantail sculpté en visage antique complétait le mobilier de la chambre.
 
-Une fenêtre ronde à la française complétait le mur Ouest de la chambre.
+Anasthasia pleure une rivière de larmes. Ses deux boutons d'yeux semble deux puits sans fond. Elle est assise dans sa tristesse, pautage dedans, et prend sûrement quelque plaisir inavoué à s'entendre pour ainsi chialer.
 
 ### Poupée
 
@@ -55,27 +60,30 @@ Le flot de larmes intarissable vous décourage d'opérer une telle action.
 
 Oh! ça alors! elle rendit votre câlin. Merci énormément, sanglotat-elle, en épongeant ses larmes. Maintenant je peux vous écouter.
 
-Comment, vous cherchez la petite fille? Quel malheur, oh Seigneur! Les enfants peuvent être des monstres des fois! Vous savez comment les autres petits l'appelaient? «La pustule» puisqu'elle a une petite mouche sur la joue. Rien de bien méchant, mais elle l'a tellement entendue qu'un cuistot l'a surpris un soir dans la cuisine en train d'essayer de se l'arracher au couteau! Oh pauvre enfant! Et personne pour la consoler! Personne! C'est moi qui a bu toute ses larmes, peuh peuh! Fit-elle en tirant la langue. Voilà pourquoi elles ressortent toutes désormais, j'en ai à revendre! Elles me sortent par les oreilles! Et puis, pourquoi voudriez-vous la voir, lumineux étranger? Vous venez mettre fin à ses souffrances! Oh! Quelle nouvelle! Aurait-on écouter mes prières? Dans ce cas, bien sûr que vous pouvez la voir! Oh Seigneur! Bien sûr, renchérit-elle, presque heureuse désormais. De vous savoir ici me sèche enfin les larmes... Oh! À pleurer, cela irritie la gorge et les yeux! C'est que j'en pouvais plu, moi, de pleurer! Merci, merci, je vous suis oh! combien redevable! Attendez un peu. D'un bond Anasthasia se leve, puis ouvrit la fenêtre et s'époumona: Il y a quelqu'un pour toi! Cesse de te cacher, n'aie pas peur! C'est une bonne personne! Puis, se retournant vers vous, elle termina: voilà, désormais vous pouvez retourner au jardin, elle y sera. Non, non, je vous en prie! c'est moi qui vous remercie!
-
+Comment, vous cherchez la petite fille? Quel malheur, oh Seigneur! Les enfants peuvent être des monstres des fois! Vous savez comment les autres petits l'appelaient? «La pustule» puisqu'elle a une petite mouche sur la joue. Rien de bien méchant, mais elle l'a tellement entendue qu'un cuistot l'a surpris un soir dans la cuisine en train d'essayer de se l'arracher au couteau! Oh pauvre enfant! Et personne pour la consoler! Personne! C'est moi qui a bu toute ses larmes, peuh peuh! Fit-elle en tirant la langue. Voilà pourquoi elles ressortent toutes désormais, j'en ai à revendre! Elles me sortent par les oreilles! Et puis, pourquoi voudriez-vous la voir, lumineux étranger? Vous venez mettre fin à ses souffrances! Oh! Quelle nouvelle! Aurait-on écouter mes prières? Dans ce cas, bien sûr que vous pouvez la voir! Oh Seigneur! Bien sûr, renchérit-elle, presque heureuse désormais. De vous savoir ici me sèche enfin les larmes... Oh! À pleurer, cela irritie la gorge et les yeux! C'est que j'en pouvais plu, moi, de pleurer! Merci, merci, je vous suis oh! combien redevable! Attendez un peu. D'un bond Anasthasia se leve, puis ouvrit la fenêtre et s'époumona: Il y a quelqu'un pour toi! Cesse de te cacher, n'aie pas peur! C'est une bonne personne! Puis, se retournant vers vous: voilà, désormais vous pouvez retourner au jardin, elle y sera. Non, non, je vous en prie! c'est moi qui vous remercie! Je vous inviterais bien en d'autres circonstances à prenre le thé, mais il y a plus important à faire! Quoi? Si cette maison lui appartient? Seigneur! Non, bien sûr que non. C'est une donnation d'un riche visiteur. Cette maison appartient à tous, elle est dans le hall.
 
 ### Élise première apparition (dans le jardin)
 
 Une fillette était désormais dans le jardin, assise par terre. Elle rigola à votre arrivée.
 
-Bonjour. Vous venez pour m'adopter? Je pourrai peindre votre portrait, tous les jours! Je suis très douée pour la peinture. Les soeurs pensent que c'est un don. Quand je peins, je sens que tout est possible. Je me sens libéré des murs de l'orphelinat. Ce n'est pas que les soeurs sont méchantes avec moi! Non, au contraire, elles sont très bonnes! Je les aime bien. Elles m'achètent plein de choses pour que je puisse peinturer: des canevas, de la peinture des tableau, j'ai même un chevalet! Ce sont les autres qui sont méchants. Ils me trouvent laides. C'est pour ça que personne veut me prendre. Mais je sais peindre! Je pourrai peindre votre beau visage! Vous n'avez pas de pustule, ou de nez crochu, vous. Ce que je donnerais pour avoir un visage comme le vôtre! On joue à un jeu? Je vais me cacher dans la maison, trouvez-moi!
+Bonjour. Vous venez pour m'adopter? Je pourrai peindre votre portrait, tous les jours! Je suis très douée pour la peinture. Les soeurs pensent que c'est un don. Quand je peins, je sens que tout est possible. Je me sens libéré des murs de l'orphelinat. Ce n'est pas que les soeurs sont méchantes avec moi! Non, au contraire, elles sont très bonnes! Je les aime bien. Elles m'achètent plein de choses pour que je puisse peinturer: des canevas, de la peinture des tableau, j'ai même un chevalet! Ce sont les autres qui sont méchants. Ils me trouvent laides. C'est pour ça que personne veut me prendre. Mais je sais peindre! Je pourrai peindre votre beau visage! Vous n'avez pas de pustule, vous. Ce que je donnerais pour avoir un visage comme le vôtre! On joue à un jeu? Je vais me cacher dans la maison, trouvez-moi!
 Sur ce, elle s'enfuit en rigolant dans la maison.
 
 ### Cuisine
 
-La cuisine est équipée pour une armée de cuistots! Elle pourrait alimenter une cours entière, et encore!
+La cuisine respire peu; tout son espace est occupé, des pieds au plafond. Un support à casseroles suspendu et bin rempli empêche une vision d'ensemble. Les cimaises qui courent les murs au niveau du torse sont remplies de pot à épices de toutes les couleurs. Un ilôt en marbre, situé sous le support suspendu, semble prêt à accueillir une armée de cuistôt. Au fond, un four à bois est entouré de multiples armoires. Un escalier descend vers le cellier.
 
 Vous entendez un rire d'enfant.
 
 ### Élise seconde apparition (dans l'armoire)
 
-
 Elle sortit de l'armoire, amusée. Vous faites mal au yeux! Je ne savais pas que les gens pouvait éclairer si fort! Vous êtes venu me chercher pour que je parte là-haut? J'aimerais bien être au paradis! Les bonnes soeurs m'en parlent tout le temps. Ah ce que j'y serai bien! Et Anasthasia y sera! Et je pourrai peindre tous les anges! Dites, en êtes-vous un? Les soeurs m'ont dit que les anges avaient une tête qui éclairait. Non! Vous ne m'attraperez pas! Je veux rester encore un tout petit peu! Juste le temps de dire au revoir à mes amis, au sous-sol!
 Ne tenant pas en place, elle descendit au sous-sol, et laissa la porte ouverte.
+
+### Porte du sous-sol
+
+La porte du sous-sol est entrebaillée. Pour une porte de cellier, elle est bien détaillée pensez-vous. Les montant en métal sont sculptés en lierres, alors que le linteau porte l'inscription suivante: *video meliora proboque, deteriora sequor*.
+Les écoinçons représentent des anges soufflant dans leur trompette.
 
 ### Sous-sol (scène finale)
 
@@ -83,8 +91,60 @@ Plusieurs animeaux étaient au sous-sol, des oiseaux volaient en cercles serrer 
 
 Comment? Vous aussi? Vous aussi? cria-t-elle. Sur son visage, des pustules faisaient irruption, et se remplissaient de pus. Ils ne cessait d'en apparaître de nouveaux, si bien que son visage en fut couvert, on voyait à peine ses yeux. Elle se gratta le visage de ses ongles, comme si elle voulut s'arracher la peau. Sous la pression certains pustules éclatèrent et livrèrent leur jus blanchâtre. Elle sembla un monstre, et cette vision horrible fut achevée par les animeaux qui flambèrent tous d'un coup. L'odeur de leur chair cramée devint insuportable, nauséabonde. Ils étaient affolés: couinaient, hurlaient, glapissait, courrant dans tous les sens, brunissant, noircissant, leur oeils devenant liquides, les chairs se ramolissant, fondant, pendant. Au travers ce tohu-bohu cauchemardesque, la petite fille cria: pourquoi, pourquoi vous avez brûlé toutes mes peintures! Les seules belles choses que j'ai! Et son cris ultime recouvris la scène d'un voile noir qui étouffa tout.
 
+### Conclusion du jeu
+
+###### Si perdu
+Jamais la petite ne se réveilla. Mais les soeurs dirent assister à un miracle. Durant la nuit, elle poussa un hurlement terrible. Un rayon de lumière l'inonda, et un ange descendit. Il la pris délicatement, lui toucha le front. Alors la lumière pénétra la tête de la fille, et elle irradia. Désormais, dit l'ange qui la tenait dans ses bras, tu seras «la fille de Dieu». Puis ils partirent, main dans la main.
+
+###### Si gagné
+Élise rouvrit faiblement les yeux, inondé de lumière. Elle irradiait la pièce, une soeur s'évanouit. Elle les remercia avec amour, reconnaissante, pui marcha par petit bonds vers le ciel, en gloussant.
+
 ### Conclusion de la narration
 
-Jamais la petite ne se réveilla. Mais les soeurs disèrent assister à un miracle. Durant la nuit, elle poussa un hurlement terrible. Un rayon de lumière l'inonda, et un ange descendit. Il la pris délicatement, lui toucha le front. Alors la lumière pénétra la tête de la fille, et elle irradia. Désormais, dit l'ange qui la tenait dans ses bras, tu seras «la fille de Dieu». Puis ils partirent, main dans la main.
+Depuis ce jour la maison des pleurs est surnommée l'hotel Dieu, en raison du miracle survenus, et on peut y trouver dans le hall, près d'une peinture de style mystique où «la fille de Dieu» est représenté montant au ciel, une peinture d'un renard. Le bruit de l'évènement courrut tant et si bien que l'hotel Dieu est autant fréquenté par les pèlerins que l'église de Sacerdoce. En retour, l'orhpelinat ne manque plus d'argent, puisque les pélerins sont généreux et de bon coeur <!--débonnaire?-->. Certainement aussi, les enfants sont plus visités, et par conscéquent, plus souvent adoptés. Et personne n'entendit jamais plus parler de la maison des pleurs.
 
-Depuis ce jour la maison des pleurs est surnommée l'hotel Dieu, en raison du miracle survenus, et on peut y trouver dans le hall, près d'une peinture de style mystique où «la fille de Dieu» est représenté montant au ciel, une peinture d'un renard. Le bruit de l'évènement courrut tant et si bien que l'hotel Dieu est autant fréquenté par les pèlerins que l'église de Sacerdoce. En retour, l'orhpelinat ne manque plus d'argent, puisque les pélerins sont généreux et de bon coeur <!--débonnaire?-->. Certainement aussi, les enfants sont plus visités, et par conscéquent, plus souvent adoptés. Et plus personne n'entendit jamais plus parler de la maison des pleurs.
+### Livres
+
+###### Poème
+
+Il faut savoir cueillir les pleurs
+Comme la rosée au jour levant
+Lorsqu'ils reposent au pied du dormeur
+Et s'en servir pour ouvir ce qui réside dedans
+Une âme épuisée par les vissitudes
+Prête à embrasser la vastitude
+
+###### Traités sur les maisons de poupées allemandes
+
+Les maisons de poupées allemandes sont les mieux réputées pour leur qualité. Harnold & Shwartz est généralement reconnue comme étant la marque ayant le mieux tiré son épingle du jeu sur un marché de plus en plus compétitif, en raison de l'engouement croissant des pays européens pour ces objet. À l'origine, H. & S. construisait des maisons de poupées pour adulte, symbole de richesse, genre de trophée extrêmement dispendieux. C'est seulement quelques décénies plus tard que les maison de poupées pour enfant se popularisèrent. Étant donné des coûts de fabrication encore aujourd'hui élevé, elle sont plutôt destinées à la bourgeoisie, et symbolisent encore une certaine richesse. Les modèles H. & S. ont généralement des facades montées sur gonds, au contraire de leur rival Britannique Toys of London, qui opte pour des modèles à facades fermées et décorées.
+
+###### Du conteur dans les contes de Langelier
+
+Le conteur dans les contes de l'écrivain Henry Langelier se tient sur la mince ligne entre personnage et narrateur.
+Parfois il se permet des commentaires sur l'action, toujours plein d'ironie, de malice. Toujours fulgurant, entre deux lignes, perçant la surface métatextuelle, il parvient à insuffler aux contes cette force vitale qui font de Langelier un des auteur les plus intriguants de son siècle. C'est particulièrement dans le conte «La bouche pleine de pierreries» que son rôle est interessant à analyser. Dans cette histoire, Ariane entend les commentaires du conteur, ce qui brise la barrière généralement étblie par convention dans les contes entre l'univers raconté et le raconteur. Non seulement Ariane entend-elle les commentaires, mais un véritable dialogue prend place entre elle et le conteur. Elle lui parle, et le désigne comme étant «le conteur», ce dernier avouant ne pas avoir véritablement de nom. L'absence de nom n'est pas un détail anodin: le conteur incarne sa fonction et ne possède par conscéquent pas d'existence propre à l'extérieur des limites de l'univers fictionnel. En s'adressant directement au conteur, Ariane met à nu un procédé de l'écriture qui se dévide sous les yeux du lecteur.
+
+### Dans le coeur d'Élise
+
+C'est un noir d'une rare intensité. Aucun son, aucune odeur, seul le vide. Tu erre quelques instants, perdus, sans repère. Soudain, un rire d'enfant éclaire les ténèbres. C'est le gazouillis de la vie, aussi doux que ceux des oiseaux. Un rayon de lumière éclaire une enfant naissante. Un ange glisse dans le rayon jusqu'à l'enfant et le regarde avec tendresse. Il dit: «Tu vivras, pauvre enfant, des nuits de malheur et de solitude. Tu seras seule, mais sache que tu sein de Dieu tu nacquis, au sein de Dieu tu retourneras. Peut-être pense-tu n'avoir ni destin ni famille, mais Dieu serait pour toi et l'un et l'autre. Ton nom sera donc Élise Videre, car tu as vu Dieu, et reçois en échange le don de la vision. Élise, va, nous nous retrouverons. » L'anga se dissipa comme un nuage soufflé par un vent paisible. Et le noir fut. Ton visage retrouva sa luminosité, et éclaira de nouveau le sous-sol, où Élise reposait au centre de ses animeaux.
+
+### Conteur
+
+Ah! vous m'avez débusqué! C'est difficile de se cacher lorsqu'on est géant comme moi!
+
+Eh oui! Je vous guette depuis votre arrivée ici.
+
+Vous devez aider la petite, c'est votre mission après tout! C'est pourquoi vous êtes ici, dans son rêve! Vous devez trouver son nom avant qu'elle ne parte.
+
+J'ai envie de conter une histoire qui se termine bien, moi!
+
+S'il vous plaît, faites quelque chose!
+
+Peut-être lire les livre vous aidera.
+
+J'adore examiner les petits êtres se remuer dans cette maison miniature. Je pourrai y passer la journée! Quoi, vous trouvez cela étrange? Allons, nous avons tous, enfant, regardé les fourmis!
+
+Vous voulez *réellement* savoir ou vous êtes? (YesOrNo)
+
+Vous allez être déçus, voilà où vous êtes: (code source du lieu).
+
+Ça y est maintenant, vous m'avez épuisé! Faites ce que vous avez à faire.

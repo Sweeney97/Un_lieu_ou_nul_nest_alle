@@ -69,9 +69,9 @@ Room soussol
 
 ! bibliothèque avec des livres
 
-! Poésies                                     ---- indique qu'il faut pleurer et se servir des larmes pour ouvrir le coeur
-! Traité sur maison de poupées   --- permet de comprendre que le joueur est dans une maison de poupées
-! Le conteur dans les contes d'Hisenberg ---- donne l'indice que le conteur observe et qu'on peut lui parler
+! Poésies
+! Traité sur maison de poupées
+! Le conteur dans les contes d'Hisenberg
 
 !cuisine
 
@@ -81,8 +81,7 @@ Room soussol
 
 ! Élise1 (déplacer une fois après avoir parlé à quelqu'un)
 
-!Élise2 (à trouver, dans la cuisine, dans une armoire? Ensuite, ouvrir son coeur avec les larmes, tous pleurent. Le conteur, la poupée, le renard, le joueur peut pleurer aussi.)
-! Si le joueur ne rouvre pas le coeur de Élise2, alors elle fuit au sous-sol.
+!Élise2 (à trouver, dans la cuisine, dans une armoire.
 
 ! Sous-sol
 ! Scène finale, le joueur insulte Élise et meurt, ou ouvre son coeur.
@@ -108,6 +107,8 @@ Room soussol
 !  Plafond à caissons
 ! Tissus tendus sur les murs
 
+
+! À la fin, Give fillette light
 !------------------------------------------------------------------------------!
 
 Include "FrenchG";
