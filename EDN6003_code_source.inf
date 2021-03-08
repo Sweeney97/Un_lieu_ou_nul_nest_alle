@@ -228,7 +228,6 @@ Room kitchen "cuisine"
                                 open: if (appearance2 in armoire)  {
                                           give armoire open;
                                           move appearance2 to kitchen;
-                                          move heart to kitchen;
                                           print "Elle sortit de l'armoire, amus@'ee. Vous faites mal aux yeux! Je ne savais pas que les gens pouvaient @'eclairer si fort! Vous @^etes venu me chercher pour que je parte l@`a-haut? J'aimerais bien @^etre au paradis! Les bonnes s@oeurs m'en parlent tout le temps. Ah ce que j'y serai bien! Et Anastasia y sera! Et je pourrai peindre tous les anges! Dites, en @^etes-vous un? Les s@oeurs m'ont dit que les anges avaient une t@^ete qui @'eclairait.";
                                           return true; }
                          ],
@@ -310,15 +309,6 @@ Room chamber "chambre"
 Room cellar "cellier"
     with description "^Le cellier est en pierres d@'egrossies, avec quelques @'etag@`eres portant leurs bouteilles de vin et leurs victuailles.^
                                  Plusieurs animaux @'etaient l@`a: des oiseaux volaient en cercles serr@'es au plafond, des chats c@^otoyaient des cygnes, des chiens, des loups, des lapins, des cochons, des vaches, des veaux, des moutons, une dinde, des @^anes, des renards, des cerfs, des @'ecureuils.",
-             before  [;
-                               open: if (noun == heart) <<enter heart>>;
-                               enter:   if (noun == heart && self has general) print_ret "Inutile d'y retourner.";
-                                           if (noun == heart && tears in player) { print "Aucun son, aucune odeur, seul le vide. Tu erres quelques instants, perdu, sans rep@`ere. Soudain, un rire d'enfant @'eclaire les t@'en@`ebres. C'est le gazouillis de la vie, aussi doux que ceux des oiseaux. Un rayon de lumi@`ere @'eclaire une enfant naissante. Un ange glisse dans le rayon jusqu'@`a l'enfant et la regarde avec tendresse. Il dit: ~Tu vivras, pauvre enfant, des nuits de malheur et de solitude. Tu seras seule, mais sache que tu sein de Dieu tu naquis, au sein de Dieu tu retourneras. Peut-@^etre pense-tu n'avoir ni destin ni famille, mais Dieu serait pour toi et l'un et l'autre. Ton nom sera donc @'Elise Videre, car tu as vu Dieu, et re@ccois en @'echange le don de la vision. @'Elise, va, nous nous retrouverons. ~L'ange se dissipa comme un nuage souffl@'e par un vent paisible. Et le noir fut. Ton visage retrouva sa luminosit@'e, et @'eclaira de nouveau le cellier, o@`u @'Elise reposait au centre de ses animaux.";
-                                           give self general;
-                                           return true; }
-                                           if (noun == heart && tears notin player) print_ret "Il vous manque un peu de tristesse pour accomplir cette action.";
-                          ],
-
     w_to woodendoor;
 
   Furniture etageres "@'etag@`eres" cellar     ! remplissage cellier
@@ -335,14 +325,6 @@ Room cellar "cellier"
           with description "Rien de bien distingu@'e: seulement quelques bonnes bouteilles du vignoble de Saint-Antoine.",
                   name 'bouteilles//p' 'bouteille' 'vin',
           has female scenery;
-
-Object heart "In petto"
-    with description "Une noirceur d'une rare intensit@'e.",
-            name 'coeur' 'ame',
-            before  [;
-                               enter, open: print_ret "il est trop t@^ot pour cela, attendez encore un peu le moment opportun!";
-                        ],
-            has container enterable open scenery;
 
 Object woodendoor "porte du cellier"
     with description  [;
@@ -387,7 +369,7 @@ Livre livre3 "recueil de po@'esie" lounge
 
 ! Si vous écrivez lire "note cachee" ou "lire note", vous pourrez lire la note cachée, qui contient le nom de la petite.
 Livre note "Note cach@'ee" lounge
-    with description "Oh, je parie que vous avez lu @cca quelquepart, mais dites-vous que @cca n'existe pas, les solution facile et sans efforts. Bien essay@'e, tout de m@^eme.",
+    with description "Oh, je parie que vous avez lu @cca quelque part, mais dites-vous que @cca n'existe pas, les solutions faciles et sans efforts. Bien essay@'e, tout de m@^eme.",
             name 'note' 'cachee';
 
 Object limonade "limonade" garden
@@ -401,22 +383,11 @@ Object limonade "limonade" garden
                               Bon, voil@`a Anastasia qui repart son @'eternelle complainte. Je vous laisse, fit-il en regardant sa montrer, puis il se faufila @`a nouveau dans le buisson d'o@`u il @'etait apparu. Adieu! et bonne chance, on ami!~ dit le Renard.^Vous vous levez de la chaise.";
                               remove fox;
                               return true; }
-                              if (fox notin garden) print_ret "Vous prenez un verre de limonde. Elle est, en v@'erite, parfaitement sucr@'ee et bien rafra@^ichissante!";
+                              if (fox notin garden) print_ret "Vous prenez un verre de limonade. Elle est, en v@'erit@'e, parfaitement sucr@'ee et bien rafra@^ichissante!";
                               take: print_ret "Pourquoi donc? C'est bien mieux de la boire que de la mettre dans ses poches!";
                               push: print_ret "Pour la faire tomber par terre?";
                          ],
     has concealed;
-
-Object tears "Larmes"
-    with description "Des joyaux bleu-tristesse.",
-            name 'larmes' 'pleurs' 'pleur' 'larme',
-            before  [;
-                             take: print "Vous vous penchez pour recueillir les larmes au sol. Vous les mettez soigneusement dans votre poche.";
-                                      move tears to player;
-                                      return true;
-                         ],
-    found_in chamber lounge,
-    has concealed pluralname;
 
 !----------------------------Npc--------------------------------------------------!
 
@@ -458,7 +429,6 @@ Npc doll "Anastasia" chamber
                               Aurait-on @'ecout@'e mes pri@`eres? Dans ce cas, bien s@^ur que vous pouvez la voir! Oh Seigneur! Bien s@^ur, rench@'erit-elle, presque heureuse d@'esormais. De vous savoir ici me s@`eche enfin les larmes... Oh! @`a pleurer, cela irrite la gorge et les yeux! C'est que j'en pouvais plus, moi, de pleurer! Merci, merci, je vous suis oh! combien redevable! Attendez un peu. D'un bond Anastasia se leva, puis ouvrit la fen@^etre et s'@'epoumona: Il y a quelqu'un pour toi! Cesse de te cacher, n'aie pas peur! C'est une bonne personne! Puis, se retournant vers vous: voil@`a, d@'esormais vous pouvez retourner au jardin, elle y sera. Non, non, je vous en prie! c'est moi qui vous remercie! Je vous inviterais bien en d'autres circonstances @`a prendre le th@'e, mais il y a plus important @`a faire! Quoi? Si cette maison lui appartient? Seigneur! Non, bien s@^ur que non. C'est une donation d'un riche visiteur. Cette maison appartient @`a tous, elle est dans le hall.";
                              give self general;
                              move appearance1 to garden;
-                             move heart to garden;
                              return true;  }
                              push, take: print_ret "Peut-@^etre devriez-vous la consoler?";
                           ];
@@ -475,7 +445,6 @@ Npc appearance1 "fillette"
                               style underline; print "[Essayez d'@'ecouter son rire afin de trouver la pi@`ece o@`u elle se cache.]";
                               move appearance2 to armoire;
                               remove self;
-                              remove heart;
                               return true;
                              ],
               has female;
@@ -487,7 +456,6 @@ Npc appearance2 "fillette"
                               print "Non! Vous ne m'attraperez pas! Je veux rester encore un tout petit peu! Juste le temps de dire au revoir @`a mes amis, au cellier!
                               Ne tenant pas en place, elle rendit au cellier, et laissa la porte ouverte.";
                               remove self;
-                              move heart to cellar;
                               give woodendoor open;
                               return true;
                              ],
@@ -505,18 +473,6 @@ Npc appearance3 "fillette" cellar
                       ],
               has female scenery;
 
-Npc appearance4 "@'Elise Videre" cellar
-    with description  [;Apparition();],
-            name 'elise' 'videre',
-            life   [;
-                           print "@'Elise vous sourit timidement. ~Je m'appelle @'Elise? Comme c'est beau! Fit-elle en ouvrant grand ses yeux. Et maintenant, je dois partir? D'accord.~ Elle prit le temps, sereinement, de saluer tous ses animaux. Puis elle vint vous donner un c@^alin.";
-                           style underline; print "^^@'Elise rouvrit faiblement les yeux, inond@'ee de lumi@`ere. Elle irradiait la pi@`ece, une s@oeur s'@'evanouit. Elle les remercia avec amour, reconnaissante, puis marcha par petit bonds vers le ciel, en gloussant.^^";
-                          deadflag = 2;
-                          TheEnd();
-                          return true;
-                     ],
-            has female scenery;
-
 Npc intercept "l'enfant" cellar
       with description [;Apparition();],
               name 'enfant' 'petite' 'fille' 'fillette',
@@ -528,38 +484,6 @@ Npc intercept "l'enfant" cellar
 Npc fillette "L'enfant endormie" chamber
     with description  [;Apparition();],
       has female scenery;
-
-Npc conteur "conteur"
-    with description "Difficile @`a voir, il para@^it si loin, ses traits sont impr@'ecis.",
-            name 'conteur' 'au',
-            times_spoken_to 0,
-            life [;
-                  Talk, Ask, Tell: self.times_spoken_to = self.times_spoken_to + 1;
-                  switch (self.times_spoken_to) {
-                  1: "Ah! vous m'avez d@'ebusqu@'e! C'est difficile de se cacher lorsqu'on est g@'eant comme moi!";
-                  2: "Eh oui! Je vous guette depuis votre arriv@'ee ici.";
-                  3: "Vous devez aider la petite, c'est votre mission apr@`es tout! C'est pourquoi vous @^etes ici, dans son r@^eve! Vous devez trouver son nom avant qu'elle ne parte.";
-                  4: "J'ai envie de conter une histoire qui se termine bien, moi!";
-                  5: "S'il vous pla@^it, faites quelque chose!";
-                  6: "Peut-@^etre lire les livre vous aidera.";
-                  7: "J'adore examiner les petits @^etres se remuer dans cette maison miniature. Je pourrai y passer la journ@'ee! Quoi, vous trouvez cela @'etrange? Allons, nous avons tous, enfant, regard@'e les fourmis!";
-                  8: print "Vous voulez"; style underline;  print " r@'eellement "; style roman; print "savoir ou vous @^etes?";
-                      if (YesOrNo ()) {
-                      print "Vous allez @^etre d@'e@ccu, voil@`a o@`u vous @^etes:^";
-                      if (location == kitchen) print_ret "Room kitchen^
-                          with description La cuisine respire peu; tout son espace est occup@'e, des pieds au plafond. Un support @`a casseroles suspendu et bien rempli emp@^eche une vision d'ensemble. Les cimaises qui courent les murs au niveau du torse sont remplies de pot @`a @'epices de toutes les couleurs. Un @^ilot en marbre, situ@'e sous le support suspendu, semble pr@^et @`a accueillir une arm@'ee de cuistot. Au fond, un four @`a bois est entour@'e de multiples armoires. La porte du cellier est @`a l'Est. Vous pouvez retourner au salon en allant vers l'Ouest.,^before  [;^listen: if (appearance2 in armoire) print_ret Vous entendez une enfant rire.;^smell: print_ret @cCa sent les @'epices!;^],^d_to woodendoor,^w_to lounge;^";
-                      if (location == garden) print_ret "Room garden^with description [;^print  Vous @^etes dans un petit jardin, bien coquet. Pr@`es de vous, une table en fer forg@'e et deux chaises en pailles semblent attendre deux causeurs prenant un rafra@^ichissement @`a l'ombre d'un saule. Le jardin contient toutes sortes de fleurs color@'ees: des tulipes, du muguet, des pens@'ees, des violettes, et des g@'eraniums. Le jardin est contourn@'e par une haute cl@^oture peinte en noir. @`A l'Est, vous pouvez apercevoir une maisonnette, et une entr@'ee donnant sur un salon.;^if (fox notin garden) print ^Un pichet de limonade est pose sur la table du jardin.;^if (appearance1 in garden) print ^Une fillette @'etait d@'esormais dans le jardin, assise par terre. Elle rigola @`a votre arriv@'ee.;^],^before  [;^go: if (noun == e_obj && fox in garden) print_ret Vous le laisseriez en plan ainsi, alors qu'il vous a affectueusement apport@'e un breuvage?;^if (noun == e_obj && appearance1 in garden) print_ret Vraiment? Quelle impolitesse! Allez la voir, au moins.;^],^w_to Une cl@^oture de m@'etal noire contourne le jardin.,^e_to lounge;^";
-                      if (location == lounge) print_ret "Room lounge^with description [;^print Le parquet en bois du salon est mouill@'e de larmes. Vous devinez la propri@'etaire de cette maison ais@'ee, puisque l'int@'erieur est apparemment luxueux.^Des biblioth@`eques vitr@'ees de style @'elisab@'ethain occupent le fond de la pi@`ece. Des lambris plaqu@'e de bois d'acajou recouvrent les murs @`a mi-hauteur, compl@'et@'es par des tissus tendus aux motifs floraux. Le plafond @`a caissons est prolong@'es dans des culots en feuilles d'acanthe et un foyer de pierre dont le linteau sculpt@'e illustre une sc@`ene de beuverie se trouve @`a l'entr@'ee.^@`A l'Ouest, vous pouvez retourner dans le jardin. @`A l'Est, vous sentez l'odeur d'une cuisine. Un escalier, monte au premier @'etage.;^if (doll hasnt general) print  Des larmes descendent en cascades l'escalier, accompagnant les plaintes horribles d'Anastasia.;^w_to garden,^e_to kitchen,^u_to chamber;^";
-                      if (location == chamber) print_ret "Room chamber^with description La chambre ne communique avec aucune pi@`ece @`a l'@'etage. Un petit brasero romain repose pr@`es du lit pour les nuits froides. Sur un gu@'eridon, un ensemble de th@'e de porcelaine chinoise au marli dor@'e de dragons d'Asie attend patiemment ses buveurs. Accot@'e sur le mur, un r@'ecamier poussi@'ereux donne l'impression d'une chambre abandonn@'ee. Sur une console, une torch@`ere aux bougies fondues n'@'eclaire plus depuis longtemps; et, tout pr@`es, un bateau de porcelaine repose. Malgr@'e tout, la chambre conservait une impression a@'er@'ee, en raison d'un @oeil de b@oeuf qui compl@'etait le mur Ouest. De plus, le plafond se prolongeait en une coupole repr@'esentant un ciel bleu-poudre avec quelque nuages, et dont le tambour @'etait couvert de ch@'erubins. Pr@`es du lit, une
-                     armoire au panneau de vantail sculpt@'e en visage antique compl@'etait le mobilier de la chambre.,^d_to lounge;";
-                      if (location == cellar) print_ret "Bien essay@'e, mais je ne peux pas d@'evoiler tous mes secrets quand m@^eme!";
-                                                    }
-                      else { print_ret "Ah ou. C'est mieux ainsi, vous savez, de ne pas briser l'illusion, je veux dire.";   }
-                  default: "@cCa y est maintenant, vous m'avez @'epuis@'e! Faites ce que vous avez @`a faire.";
-                                                                  }
-                 ],
-          found_in [;  return true;  ],
-          has scenery ~proper;
 
 !--------------------------------Grammaire----------------------------------------------!
 
