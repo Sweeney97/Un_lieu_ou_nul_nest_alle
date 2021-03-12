@@ -6,12 +6,12 @@ Heureusement, dans les années 90, «Graham Nelson successfully reverse-engineer
 
 ### Voici quelques liens:
 
-- Le DM4 [en ligne](https://www.inform-fiction.org/manual/html/contents.html) et en [PDF](https://www.inform-fiction.org/manual/DM4.pdf)
+- Le DM4 [en ligne](https://www.inform-fiction.org/manual/html/contents.html) et [en PDF](https://www.inform-fiction.org/manual/DM4.pdf)
 - IBF [en ligne](https://inform-beginners-guide.readthedocs.io/en/latest/index.html) et [en PDF](https://www.inform-fiction.org/manual/IBG.pdf)
 - [The Interactive Fiction Archive](https://www.ifarchive.org/)
 - [IFDB](https://ifdb.org/)
 - [La communauté francophone des fictions interactives](http://www.fiction-interactive.fr/creer/inform-6/)
-- [La page web d'Inform 6](http://www.fiction-interactive.fr/creer/inform-6/)
+- [La page web d'Inform 6](https://www.inform-fiction.org/)
 - [La page web d'inform 7](http://inform7.com/)
 - [Roger Firth's IF pages](http://www.firthworks.com/roger/informfaq/index.html)
 
