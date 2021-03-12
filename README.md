@@ -1,7 +1,7 @@
 # Page de présentation
 
 ! Mise à jour!
-*J'ai changé le dépôt de mon jeu: j'ai téléchargé mon dossier local incluant mon Git, il est désormais possible de voir tout le code source ainsi que mes commits. J'ai au passage changé le transcript pour un transcript gangant et j'ai ajouté mes diapos de présentation.*
+*J'ai changé le dépôt de mon jeu: j'ai téléchargé mon dossier local incluant mon Git, il est désormais possible de voir tout le code source ainsi que mes commits. J'ai au passage changé le transcript pour un transcript gagant et j'ai ajouté mes diapos de présentation.*
 
 Bienvenue sur le dépôt GitHub de ma création pour l'évaluation de mi-session; j'ai opté pour l'écriture codée.
 
