@@ -6,7 +6,7 @@
 
 ---
 
-Bienvenue sur le dépôt GitHub de ma création pour l'évaluation de mi-session; j'ai opté pour l'écriture codée.
+Bienvenu sur le dépôt GitHub de ma création pour l'évaluation de mi-session; j'ai opté pour l'écriture codée.
 
 J'ai écrit une histoire à l'aide d'Inform 6, intitulée « Un lieu où nul n'est allé ».
 
