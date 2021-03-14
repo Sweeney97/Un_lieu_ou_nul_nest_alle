@@ -10,7 +10,7 @@ Bienvenue sur le dépôt GitHub de ma création pour l'évaluation de mi-session
 
 J'ai écrit une histoire à l'aide d'Inform 6, intitulée « Un lieu où nul n'est allé ».
 
-Si vous ne savez pas ce qu'est Inform, je vous invite à consulter [ce fichier](https://github.com/Sweeney97/Un_lieu_ou_nul_nest_alle/blob/master/inform_presentation.md) avant de lancer le jeu, qui indique quelques manipulations de base.
+Si vous ne savez pas ce qu'est Inform, je vous invite à consulter [ce fichier](https://github.com/Sweeney97/Un_lieu_ou_nul_nest_alle/blob/master/premier_contact.md) avant de lancer le jeu, qui indique quelques manipulations de base.
 
 Il y a aussi [la transcription du jeu](https://github.com/Sweeney97/Un_lieu_ou_nul_nest_alle/blob/master/transcript.md), qui sert autant à lire la séquence du jeu (si vous n'avez pas envie d'y jouer) que de guide pour vous débloquer. **Gardez-la donc à portée**.
 
