@@ -2,7 +2,7 @@
 
 Une aventure textuelle codée avec Inform (ou d'autres codes similaires) peut être déroutante la première fois.
 À l'origine, les premiers jeux vidéo étaient textuels, avant l'apparition des modélisations visuelles.
-Si les anciens jeux textuels développés avant les années 2000 sont parfois un véritable casse-tête, ma petite histoire de 15 minutes ne devrait pas vous causer de soucis, sans compter que vous avez accès à la solution ([la transcription](https://github.com/Sweeney97/EDN6003/blob/main/transcript.md)) et qu'il est impossible de mourir. Voici l'essentiel à savoir pour y jouer.
+Si les anciens jeux textuels développés avant les années 2000 sont parfois un véritable casse-tête, ma petite histoire de 15 minutes ne devrait pas vous causer de soucis, sans compter que vous avez accès à la solution ([la transcription](https://github.com/Sweeney97/Un_lieu_ou_nul_nest_alle/blob/master/transcript.md)) et qu'il est impossible de mourir. Voici l'essentiel à savoir pour y jouer.
 
 - Le lieu où vous vous trouvez est toujours affiché en haut de l'écran.
 
